@@ -69,42 +69,42 @@
     <message>
         <location filename="../../src/dialogprefs.ui" line="36"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <location filename="../../src/dialogprefs.ui" line="70"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacitat:</translation>
     </message>
     <message>
         <location filename="../../src/dialogprefs.ui" line="77"/>
         <source>Always on top</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre a dalt</translation>
     </message>
     <message>
         <location filename="../../src/dialogprefs.ui" line="99"/>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Colors</translation>
     </message>
     <message>
         <location filename="../../src/dialogprefs.ui" line="120"/>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Fons</translation>
     </message>
     <message>
         <location filename="../../src/dialogprefs.ui" line="143"/>
         <source>Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Vora</translation>
     </message>
     <message>
         <location filename="../../src/dialogprefs.ui" line="160"/>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text</translation>
     </message>
     <message>
         <location filename="../../src/dialogprefs.cpp" line="41"/>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferències</translation>
     </message>
 </context>
 <context>
@@ -112,18 +112,18 @@
     <message>
         <location filename="../../src/mainwindow.cpp" line="106"/>
         <source>Width:</source>
-        <translation type="unfinished"></translation>
+        <translation>Amplada:</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="106"/>
         <location filename="../../src/mainwindow.cpp" line="107"/>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="../../src/mainwindow.cpp" line="106"/>
         <source>Height:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alçada:</translation>
     </message>
 </context>
 </TS>
